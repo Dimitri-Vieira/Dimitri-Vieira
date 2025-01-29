@@ -1,4 +1,4 @@
-<h1 align="left">SEJAM BEM-VINDOS AOS MEUS REPOSITÓRIOS! 👋</h1>
+<h1 align="left">SEJAM BEM-VINDOS AO MEU REPOSITÓRIO! 👋</h1>
 
 ###
 
